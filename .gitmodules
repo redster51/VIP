@@ -1,0 +1,3 @@
+[submodule "VIP"]
+	path = VIP
+	url = https://github.com/redster51/VIP.git
